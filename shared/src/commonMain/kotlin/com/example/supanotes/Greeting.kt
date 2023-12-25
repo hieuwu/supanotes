@@ -1,4 +1,4 @@
-package com.example.supanotes
+package com.hieuvu.supanotes
 
 class Greeting {
     private val platform: Platform = getPlatform()

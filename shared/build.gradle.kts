@@ -34,7 +34,7 @@ kotlin {
 }
 
 android {
-    namespace = "com.example.supanotes"
+    namespace = "com.hieuvu.supanotes"
     compileSdk = 34
     defaultConfig {
         minSdk = 31

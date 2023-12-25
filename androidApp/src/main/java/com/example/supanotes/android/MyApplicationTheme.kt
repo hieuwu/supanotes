@@ -1,4 +1,4 @@
-package com.example.supanotes.android
+package com.hieuvu.supanotes.android
 
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.foundation.shape.RoundedCornerShape

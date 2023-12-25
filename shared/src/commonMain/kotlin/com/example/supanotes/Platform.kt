@@ -1,4 +1,4 @@
-package com.example.supanotes
+package com.hieuvu.supanotes
 
 interface Platform {
     val name: String

@@ -1,4 +1,4 @@
-package com.example.supanotes
+package com.hieuvu.supanotes
 
 import platform.UIKit.UIDevice
 
